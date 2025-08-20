@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(243, 243, 246);
+}
+.m{
+    color: chartreuse;
+}
+
+ul li {
+    list-style: none; 
+    margin: 50px;   
+}
+ ul li a {
+    text-decoration: none;
+    
+}
+ ul {
+    display: flex;
+    margin: 50px;
+    
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button{
+    background-color: #b1fd02;
+    border: none;
+    border-radius: 5px;
+    padding: 7px;
+
+}
+header{
+    background-image: url('../images/developer.png'),url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: top left,bottom right;
+}
+
+
+  
